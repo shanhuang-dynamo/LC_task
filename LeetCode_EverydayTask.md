@@ -2,7 +2,7 @@
 ## 12/16/2016
 - [x] Amazon LC 1 Two Sum
 - [x] Amazon LC 386 First Unique Character in a String
-- [ ] Amazon LC 20 Valid Parentheses
+- [x] Amazon LC 20 Valid Parentheses
 - [ ] Amazon LC 438 Find All Anagrams in a String
 - [ ] Amazon LC 206 Reverse Linked List
 - [ ] Amazon LC 235 Lowest Common Ancestor of a Binary Search Tree
