@@ -3,7 +3,7 @@
 - [x] Amazon LC 1 Two Sum
 - [x] Amazon LC 386 First Unique Character in a String
 - [x] Amazon LC 20 Valid Parentheses
-- [ ] Amazon LC 438 Find All Anagrams in a String
+- [x] Amazon LC 438 Find All Anagrams in a String
 - [ ] Amazon LC 206 Reverse Linked List
 - [ ] Amazon LC 235 Lowest Common Ancestor of a Binary Search Tree
 - [ ] Amazon LC 121 Best Time to Buy and Sell Stock
